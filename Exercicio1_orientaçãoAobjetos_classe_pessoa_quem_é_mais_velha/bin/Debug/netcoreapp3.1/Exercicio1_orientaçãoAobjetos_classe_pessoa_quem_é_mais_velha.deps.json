@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio1_orientaçãoAobjetos_classe_pessoa_quem_é_mais_velha/1.0.0": {
+        "runtime": {
+          "Exercicio1_orientaçãoAobjetos_classe_pessoa_quem_é_mais_velha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio1_orientaçãoAobjetos_classe_pessoa_quem_é_mais_velha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

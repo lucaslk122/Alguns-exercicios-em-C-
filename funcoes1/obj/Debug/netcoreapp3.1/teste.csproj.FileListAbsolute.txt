@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\obj\Debug\netcoreapp3.1\teste.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\obj\Debug\netcoreapp3.1\teste.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>orientaçao_a_objetos___classes_atributos_métodos_membros_estáticos</RootNamespace>
+  </PropertyGroup>
+
+</Project>

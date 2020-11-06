@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "orientaçao a objetos - classes,atributos,métodos,membros estáticos/1.0.0": {
+        "runtime": {
+          "orientaçao a objetos - classes,atributos,métodos,membros estáticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "orientaçao a objetos - classes,atributos,métodos,membros estáticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

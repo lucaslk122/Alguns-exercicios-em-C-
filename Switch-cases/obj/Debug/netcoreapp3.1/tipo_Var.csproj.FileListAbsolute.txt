@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\bin\Debug\netcoreapp3.1\tipo_Var.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\bin\Debug\netcoreapp3.1\tipo_Var.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\bin\Debug\netcoreapp3.1\tipo_Var.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\bin\Debug\netcoreapp3.1\tipo_Var.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\bin\Debug\netcoreapp3.1\tipo_Var.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\bin\Debug\netcoreapp3.1\tipo_Var.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\obj\Debug\netcoreapp3.1\tipo_Var.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\obj\Debug\netcoreapp3.1\tipo_Var.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\obj\Debug\netcoreapp3.1\tipo_Var.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\obj\Debug\netcoreapp3.1\tipo_Var.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\obj\Debug\netcoreapp3.1\tipo_Var.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\obj\Debug\netcoreapp3.1\tipo_Var.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\tipo_Var\obj\Debug\netcoreapp3.1\tipo_Var.genruntimeconfig.cache

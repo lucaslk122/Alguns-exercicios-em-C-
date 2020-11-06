@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\bin\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\bin\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\bin\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\bin\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\bin\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\bin\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\obj\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\obj\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\obj\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\obj\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\obj\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\obj\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Estrutura_de_repetição_FOREACH\obj\Debug\netcoreapp3.1\Estrutura_de_repetição_FOREACH.genruntimeconfig.cache

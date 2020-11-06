@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Orientação a objetos (triangulo como exemplo)/1.0.0": {
+        "runtime": {
+          "Orientação a objetos (triangulo como exemplo).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Orientação a objetos (triangulo como exemplo)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

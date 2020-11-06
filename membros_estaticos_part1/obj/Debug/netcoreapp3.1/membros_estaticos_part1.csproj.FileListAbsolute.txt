@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\bin\Debug\netcoreapp3.1\membros_estaticos_part1.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\bin\Debug\netcoreapp3.1\membros_estaticos_part1.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\bin\Debug\netcoreapp3.1\membros_estaticos_part1.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\bin\Debug\netcoreapp3.1\membros_estaticos_part1.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\bin\Debug\netcoreapp3.1\membros_estaticos_part1.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\bin\Debug\netcoreapp3.1\membros_estaticos_part1.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\obj\Debug\netcoreapp3.1\membros_estaticos_part1.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\obj\Debug\netcoreapp3.1\membros_estaticos_part1.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\obj\Debug\netcoreapp3.1\membros_estaticos_part1.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\obj\Debug\netcoreapp3.1\membros_estaticos_part1.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\obj\Debug\netcoreapp3.1\membros_estaticos_part1.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\obj\Debug\netcoreapp3.1\membros_estaticos_part1.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\membros_estaticos_part1\obj\Debug\netcoreapp3.1\membros_estaticos_part1.genruntimeconfig.cache

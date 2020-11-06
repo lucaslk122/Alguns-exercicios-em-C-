@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\bin\Debug\netcoreapp3.1\Iteração_com_lista_teste.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\bin\Debug\netcoreapp3.1\Iteração_com_lista_teste.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\bin\Debug\netcoreapp3.1\Iteração_com_lista_teste.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\bin\Debug\netcoreapp3.1\Iteração_com_lista_teste.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\bin\Debug\netcoreapp3.1\Iteração_com_lista_teste.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\bin\Debug\netcoreapp3.1\Iteração_com_lista_teste.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\obj\Debug\netcoreapp3.1\Iteração_com_lista_teste.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\obj\Debug\netcoreapp3.1\Iteração_com_lista_teste.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\obj\Debug\netcoreapp3.1\Iteração_com_lista_teste.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\obj\Debug\netcoreapp3.1\Iteração_com_lista_teste.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\obj\Debug\netcoreapp3.1\Iteração_com_lista_teste.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\obj\Debug\netcoreapp3.1\Iteração_com_lista_teste.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Iteração_com_lista_teste\obj\Debug\netcoreapp3.1\Iteração_com_lista_teste.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\bin\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\bin\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\bin\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\bin\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\bin\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\bin\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\obj\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\obj\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\obj\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\obj\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\obj\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\obj\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Orientação a objetos (triangulo como exemplo)\obj\Debug\netcoreapp3.1\Orientação a objetos (triangulo como exemplo).genruntimeconfig.cache

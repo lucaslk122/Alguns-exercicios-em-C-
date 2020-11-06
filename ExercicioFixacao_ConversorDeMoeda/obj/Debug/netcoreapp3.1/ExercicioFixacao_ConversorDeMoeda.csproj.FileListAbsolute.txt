@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\bin\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\bin\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\bin\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\bin\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\bin\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\bin\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\obj\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\obj\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\obj\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\obj\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\obj\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\obj\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExercicioFixacao_ConversorDeMoeda\obj\Debug\netcoreapp3.1\ExercicioFixacao_ConversorDeMoeda.genruntimeconfig.cache

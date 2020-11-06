@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

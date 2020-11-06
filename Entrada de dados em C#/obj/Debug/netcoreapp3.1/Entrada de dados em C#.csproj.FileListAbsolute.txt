@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\bin\Debug\netcoreapp3.1\Entrada de dados em C#.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\bin\Debug\netcoreapp3.1\Entrada de dados em C#.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\bin\Debug\netcoreapp3.1\Entrada de dados em C#.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\bin\Debug\netcoreapp3.1\Entrada de dados em C#.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\bin\Debug\netcoreapp3.1\Entrada de dados em C#.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\bin\Debug\netcoreapp3.1\Entrada de dados em C#.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\obj\Debug\netcoreapp3.1\Entrada de dados em C#.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\obj\Debug\netcoreapp3.1\Entrada de dados em C#.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\obj\Debug\netcoreapp3.1\Entrada de dados em C#.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\obj\Debug\netcoreapp3.1\Entrada de dados em C#.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\obj\Debug\netcoreapp3.1\Entrada de dados em C#.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\obj\Debug\netcoreapp3.1\Entrada de dados em C#.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Entrada de dados em C#\obj\Debug\netcoreapp3.1\Entrada de dados em C#.genruntimeconfig.cache

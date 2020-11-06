@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\bin\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\bin\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\bin\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\bin\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\bin\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\bin\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\obj\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\obj\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\obj\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\obj\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\obj\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\obj\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Vetores2_POO_vetores_com_classe\obj\Debug\netcoreapp3.1\Vetores2_POO_vetores_com_classe.genruntimeconfig.cache

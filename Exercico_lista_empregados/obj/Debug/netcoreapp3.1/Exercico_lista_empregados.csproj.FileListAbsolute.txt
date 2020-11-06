@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\bin\Debug\netcoreapp3.1\Exercico_lista_empregados.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\bin\Debug\netcoreapp3.1\Exercico_lista_empregados.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\bin\Debug\netcoreapp3.1\Exercico_lista_empregados.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\bin\Debug\netcoreapp3.1\Exercico_lista_empregados.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\bin\Debug\netcoreapp3.1\Exercico_lista_empregados.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\bin\Debug\netcoreapp3.1\Exercico_lista_empregados.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\obj\Debug\netcoreapp3.1\Exercico_lista_empregados.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\obj\Debug\netcoreapp3.1\Exercico_lista_empregados.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\obj\Debug\netcoreapp3.1\Exercico_lista_empregados.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\obj\Debug\netcoreapp3.1\Exercico_lista_empregados.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\obj\Debug\netcoreapp3.1\Exercico_lista_empregados.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\obj\Debug\netcoreapp3.1\Exercico_lista_empregados.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Exercico_lista_empregados\obj\Debug\netcoreapp3.1\Exercico_lista_empregados.genruntimeconfig.cache

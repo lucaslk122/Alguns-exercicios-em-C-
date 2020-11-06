@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\bin\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\bin\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\bin\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\bin\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\bin\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\bin\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\obj\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\obj\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\obj\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\obj\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\obj\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\obj\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\ExeFixação_POO_clientes_hotel\obj\Debug\netcoreapp3.1\ExeFixação_POO_clientes_hotel.genruntimeconfig.cache

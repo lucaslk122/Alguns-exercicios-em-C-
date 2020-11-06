@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\bin\Debug\netcoreapp3.1\Listas2.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\bin\Debug\netcoreapp3.1\Listas2.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\bin\Debug\netcoreapp3.1\Listas2.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\bin\Debug\netcoreapp3.1\Listas2.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\bin\Debug\netcoreapp3.1\Listas2.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\bin\Debug\netcoreapp3.1\Listas2.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\obj\Debug\netcoreapp3.1\Listas2.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\obj\Debug\netcoreapp3.1\Listas2.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\obj\Debug\netcoreapp3.1\Listas2.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\obj\Debug\netcoreapp3.1\Listas2.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\obj\Debug\netcoreapp3.1\Listas2.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\obj\Debug\netcoreapp3.1\Listas2.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Listas2\obj\Debug\netcoreapp3.1\Listas2.genruntimeconfig.cache

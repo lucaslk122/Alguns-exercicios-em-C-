@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExeFixação1_POO_retangulo/1.0.0": {
+        "runtime": {
+          "ExeFixação1_POO_retangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExeFixação1_POO_retangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Vetores2_POO_vetores_com_classe/1.0.0": {
+        "runtime": {
+          "Vetores2_POO_vetores_com_classe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vetores2_POO_vetores_com_classe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

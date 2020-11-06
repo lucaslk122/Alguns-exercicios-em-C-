@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\bin\Debug\netcoreapp3.1\Expressão_condicional_ternária.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\bin\Debug\netcoreapp3.1\Expressão_condicional_ternária.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\bin\Debug\netcoreapp3.1\Expressão_condicional_ternária.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\bin\Debug\netcoreapp3.1\Expressão_condicional_ternária.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\bin\Debug\netcoreapp3.1\Expressão_condicional_ternária.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\bin\Debug\netcoreapp3.1\Expressão_condicional_ternária.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\obj\Debug\netcoreapp3.1\Expressão_condicional_ternária.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\obj\Debug\netcoreapp3.1\Expressão_condicional_ternária.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\obj\Debug\netcoreapp3.1\Expressão_condicional_ternária.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\obj\Debug\netcoreapp3.1\Expressão_condicional_ternária.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\obj\Debug\netcoreapp3.1\Expressão_condicional_ternária.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\obj\Debug\netcoreapp3.1\Expressão_condicional_ternária.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Expressão_condicional_ternária\obj\Debug\netcoreapp3.1\Expressão_condicional_ternária.genruntimeconfig.cache

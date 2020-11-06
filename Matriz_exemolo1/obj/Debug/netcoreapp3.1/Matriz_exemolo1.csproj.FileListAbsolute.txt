@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\bin\Debug\netcoreapp3.1\Matriz_exemolo1.exe
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\bin\Debug\netcoreapp3.1\Matriz_exemolo1.deps.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\bin\Debug\netcoreapp3.1\Matriz_exemolo1.runtimeconfig.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\bin\Debug\netcoreapp3.1\Matriz_exemolo1.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\bin\Debug\netcoreapp3.1\Matriz_exemolo1.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\bin\Debug\netcoreapp3.1\Matriz_exemolo1.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\obj\Debug\netcoreapp3.1\Matriz_exemolo1.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\obj\Debug\netcoreapp3.1\Matriz_exemolo1.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\obj\Debug\netcoreapp3.1\Matriz_exemolo1.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\obj\Debug\netcoreapp3.1\Matriz_exemolo1.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\obj\Debug\netcoreapp3.1\Matriz_exemolo1.dll
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\obj\Debug\netcoreapp3.1\Matriz_exemolo1.pdb
+C:\Users\ldiniz\Desktop\Meus projetos\C#\Matriz_exemolo1\obj\Debug\netcoreapp3.1\Matriz_exemolo1.genruntimeconfig.cache
